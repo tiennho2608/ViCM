@@ -1,0 +1,503 @@
+text,Real_Label,Predicted_Label
+"Cái bàn phím này đèn nháy dở vl, chán!",OFFENSIVE,OFFENSIVE
+"Cái app này crash random, fuck nó luôn!",OFFENSIVE,OFFENSIVE
+"Máy chơi game lag vl, chán đời!",OFFENSIVE,OFFENSIVE
+"Máy tui chơi game nóng vl, chán đời!",OFFENSIVE,OFFENSIVE
+"Game này map mới, đẹp vl luôn!",CLEAN,CLEAN
+"Net hôm nay tệ vl, chơi không nổi!",OFFENSIVE,OFFENSIVE
+Cái headphone này noise cancel ngon!,CLEAN,CLEAN
+"Tui cần app sketch free, suggest đi!",CLEAN,CLEAN
+"Tui vừa upgrade SSD, máy nhanh hơn!",CLEAN,CLEAN
+"Cần tool backup free, ai có không?",CLEAN,CLEAN
+Ai có link watch phim 4K không?,CLEAN,CLEAN
+"Game này PvP fun, ai chơi chưa?",CLEAN,CLEAN
+"Tui vừa join team, vibe chill lắm!",CLEAN,CLEAN
+"Game này storyline deep, chơi đi nha!",CLEAN,CLEAN
+"Tui vừa buy SSD, tốc độ nhanh vl!",CLEAN,CLEAN
+"Cần code PHP, ai share tui với!",CLEAN,CLEAN
+"Tui vừa order bàn phím, key ngon lắm!",CLEAN,CLEAN
+"Cần tool extract free, ai có không?",CLEAN,CLEAN
+"Shop này deal xịn, săn đi mọi người!",CLEAN,CLEAN
+"Tui order đồ mà ship lâu vl, chán ghê!",OFFENSIVE,OFFENSIVE
+"Tui cần app sketch free, suggest đi!",CLEAN,CLEAN
+"Match này team tui lose vì lag, ngu vl!",OFFENSIVE,OFFENSIVE
+"Loa này âm thanh méo vl, bực mình!",OFFENSIVE,OFFENSIVE
+"Ping cao vl, chơi game lag muốn khóc!",OFFENSIVE,OFFENSIVE
+"Order đồ mà ship chậm như shit, chán ghê!",OFFENSIVE,OFFENSIVE
+"Server down giữa game, fuck nó luôn!",OFFENSIVE,OFFENSIVE
+"Tui mới chơi game này, khó vl!",OFFENSIVE,OFFENSIVE
+"Game này PvE đỉnh, ai chơi chưa?",CLEAN,CLEAN
+"Tui vừa upgrade SSD, boot nhanh hơn!",CLEAN,CLEAN
+"Film này comedy đỉnh, xem đi nha!",CLEAN,CLEAN
+Ai biết cách tweak setting game không?,CLEAN,CLEAN
+"Tui cần app to-do free, gợi ý nha!",CLEAN,CLEAN
+"Máy tui overheat khi chơi, nóng vl!",OFFENSIVE,OFFENSIVE
+"Game này patch mới, smooth hơn rồi!",CLEAN,CLEAN
+"Cần tool scan virus free, ai biết không?",CLEAN,CLEAN
+"Chuột này scroll dở ẹc, fuck luôn!",OFFENSIVE,OFFENSIVE
+"Shop đó ship đúng hẹn, ok lắm!",CLEAN,CLEAN
+"Cái earbuds này fit ngon, sound đỉnh!",CLEAN,CLEAN
+"Máy tui drop FPS khi stream, chán vl!",OFFENSIVE,OFFENSIVE
+"Cái monitor này màu nhòe vl, chán lắm!",OFFENSIVE,OFFENSIVE
+"Tui test mic mới, sound clear lắm nha!",CLEAN,CLEAN
+"Headphone này dây ngắn vl, dở thật!",OFFENSIVE,OFFENSIVE
+"Ai biết cách fix error 404 không, help tui với!",CLEAN,CLEAN
+"Game này event hot, join đi mọi người!",CLEAN,CLEAN
+"Tui vừa join team, vibe chill vl!",CLEAN,CLEAN
+"Cần plugin free cho WP, ai biết?",CLEAN,CLEAN
+"Tui test webcam mà hình mờ vl, chán đời!",OFFENSIVE,OFFENSIVE
+"Webcam này hình nhòe vl, dở hơi thật!",OFFENSIVE,OFFENSIVE
+"Server lag kinh khủng, chơi chán vl!",OFFENSIVE,OFFENSIVE
+"Cái loa này rè vl, nghe phát bực!",OFFENSIVE,OFFENSIVE
+"Cần code PHP, ai share tui với!",CLEAN,CLEAN
+"Tui vừa order chuột, click mượt lắm!",CLEAN,CLEAN
+Ai có tool edit sound free không?,CLEAN,CLEAN
+"Cái app này UI dở ẹc, bực mình!",OFFENSIVE,OFFENSIVE
+"Cần app học tiếng Anh, recommend nha!",CLEAN,CLEAN
+"Cái earbuds này fit tốt, sound cũng ok!",CLEAN,CLEAN
+"Tui vừa post clip, like giùm tui nha!",CLEAN,CLEAN
+"Máy khởi động chậm vl, điên tiết!",OFFENSIVE,OFFENSIVE
+"Tui vừa buy HDD, dung lượng lớn ghê!",CLEAN,CLEAN
+"Game này multiplayer fun lắm, join đi!",CLEAN,CLEAN
+"Cái headphone này dây lỏng lẻo, dở vl!",OFFENSIVE,OFFENSIVE
+"Shop này uy tín, buy đồ ở đây ok lắm!",CLEAN,CLEAN
+"Tai nghe này sound yếu xìu, chán vl!",OFFENSIVE,OFFENSIVE
+"Cần plugin free cho WP, ai biết?",CLEAN,CLEAN
+"Game này PvE fun, ai chơi chưa?",CLEAN,CLEAN
+"Ai biết code HTML basic không, teach tui với!",CLEAN,CLEAN
+"Tui vừa join event, prize xịn ghê!",CLEAN,CLEAN
+"Cần script Python, ai share tui!",CLEAN,CLEAN
+"Ai biết cách setup VPN không, chỉ tui!",CLEAN,CLEAN
+"Tui vừa test GPU, benchmark đỉnh!",CLEAN,CLEAN
+"Game này update map, đẹp lắm!",CLEAN,CLEAN
+Ai biết cách bypass lock này không?,CLEAN,CLEAN
+"Game này bug nhiều vl, chơi chán như chó!",OFFENSIVE,OFFENSIVE
+"Tui mới test game, FPS drop như mưa!",OFFENSIVE,OFFENSIVE
+"Ai có trick boost FPS không, share tui với!",CLEAN,CLEAN
+"Film này soundtrack đỉnh, nghe phê!",CLEAN,CLEAN
+"Tui test webcam, focus chậm vl!",OFFENSIVE,OFFENSIVE
+"Cái bàn phím này typing ngon, nhưng đắt vãi!",OFFENSIVE,OFFENSIVE
+"Ai biết cách boost CPU không, chỉ tui!",CLEAN,CLEAN
+"Server down nữa rồi, fuck cái hệ thống này!",OFFENSIVE,OFFENSIVE
+Ai biết cách mod skin không?,CLEAN,CLEAN
+Ai biết cách config server không?,CLEAN,CLEAN
+"Headphone này treble chói vl, dở thật!",OFFENSIVE,OFFENSIVE
+"Game này fix glitch, mượt hơn rồi!",CLEAN,CLEAN
+"Máy tui update xong thì crash liên tục, điên vl!",OFFENSIVE,OFFENSIVE
+"Cần code mẫu, ai share tui với!",CLEAN,CLEAN
+"Cần code JS, ai share tui với!",CLEAN,CLEAN
+"Film này soundtrack đỉnh, nghe phê!",CLEAN,CLEAN
+"Game này lỗi nhiều vl, chơi phát bực!",OFFENSIVE,OFFENSIVE
+"Server crash lúc căng, fuck cái game này!",OFFENSIVE,OFFENSIVE
+"Game này plot hay, chơi đi nha!",CLEAN,CLEAN
+"Game này bug đầy, chơi chán như chó!",OFFENSIVE,OFFENSIVE
+"Server down hoài, chơi sao nổi vậy trời?",OFFENSIVE,OFFENSIVE
+"Cái case này design đẹp, worth mua lắm!",CLEAN,CLEAN
+Ai có link torrent phim mới không?,CLEAN,CLEAN
+"Shop này ship nhanh, uy tín lắm!",CLEAN,CLEAN
+"Mic này thu âm rè vl, bực mình!",OFFENSIVE,OFFENSIVE
+"Chơi game mà FPS drop hoài, điên vl!",OFFENSIVE,OFFENSIVE
+"Cái bàn phím này RGB đẹp, typing ngon!",CLEAN,CLEAN
+"Máy tui lag khi stream, chán vl!",OFFENSIVE,OFFENSIVE
+"Ai biết cách boost CPU không, chỉ tui!",CLEAN,CLEAN
+"Film này ending đỉnh, xem đi nha!",CLEAN,CLEAN
+"Tui vừa order chuột, click mượt lắm!",CLEAN,CLEAN
+"Monitor này hiển thị mờ vl, chán ghê!",OFFENSIVE,OFFENSIVE
+"Server lag như shit, chơi sao nổi?",OFFENSIVE,OFFENSIVE
+"Cái mic này rè như shit, tiền mất tật mang!",OFFENSIVE,OFFENSIVE
+"Tui vừa upgrade CPU, máy nhanh hơn!",CLEAN,CLEAN
+"Cần tool backup free, ai có không?",CLEAN,CLEAN
+"Tui cần app paint free, suggest đi!",CLEAN,CLEAN
+"Film này ending shock, xem đi nha!",CLEAN,CLEAN
+Ai có link watch phim online không?,CLEAN,CLEAN
+Ai biết cách overclock CPU không?,CLEAN,CLEAN
+"Film này trending, xem đi mọi người!",CLEAN,CLEAN
+"Máy tui crash random, điên vl!",OFFENSIVE,OFFENSIVE
+"Game này bug kinh dị, chơi chán lắm!",OFFENSIVE,OFFENSIVE
+Ai biết cách mod skin không?,CLEAN,CLEAN
+"Cái loa này treble ngon, price rẻ!",CLEAN,CLEAN
+"Tui cần app note free, gợi ý đi!",CLEAN,CLEAN
+"Film này climax đỉnh, xem đi nha!",CLEAN,CLEAN
+"App này lỗi liên tục, dở ẹc thật!",OFFENSIVE,OFFENSIVE
+"Film này ending đỉnh, xem đi nha!",CLEAN,CLEAN
+"Laptop này chơi game ok, nhưng fan ồn như máy cày!",OFFENSIVE,OFFENSIVE
+"Cần tool compress file free, ai có?",CLEAN,CLEAN
+"Tui vừa buy SSD, tốc độ nhanh vl!",CLEAN,CLEAN
+Ai có link download free game này không?,CLEAN,CLEAN
+"Shop này sale đồ xịn, check đi!",CLEAN,CLEAN
+"Tui cần app chat free, gợi ý cái nào đi!",CLEAN,CLEAN
+Ai có tool record sound free không?,CLEAN,CLEAN
+"Cái game này lag như điên, chơi chán vl!",OFFENSIVE,OFFENSIVE
+"Cái loa này treble chói tai, dở hơi vl!",OFFENSIVE,OFFENSIVE
+"Tui mới chơi game này, khó vl!",OFFENSIVE,OFFENSIVE
+"Cái bàn phím này RGB xịn, typing ngon!",CLEAN,CLEAN
+Cái headphone này noise cancel ngon!,CLEAN,CLEAN
+"Tui vừa buy RAM, máy mượt hơn!",CLEAN,CLEAN
+"Máy nóng vl, chạy muốn cháy luôn!",OFFENSIVE,OFFENSIVE
+Ai có link stream phim mới không?,CLEAN,CLEAN
+"Game này update đẹp, thử đi ai!",CLEAN,CLEAN
+"Shop đó ship đúng hẹn, ok lắm!",CLEAN,CLEAN
+"Film này rating cao, xem đi mọi người!",CLEAN,CLEAN
+"Server down lúc căng, fuck cái hệ thống!",OFFENSIVE,OFFENSIVE
+"Film này CGI đỉnh, xem thích lắm!",CLEAN,CLEAN
+Ai biết cách mod game này không?,CLEAN,CLEAN
+"Game này storyline hay, recommend nha!",CLEAN,CLEAN
+"Máy tui lag khi render, bực vl!",OFFENSIVE,OFFENSIVE
+Ai có tool edit sound free không?,CLEAN,CLEAN
+Ai biết cách unlock game không?,CLEAN,CLEAN
+"Game này plot hay, chơi đi nha!",CLEAN,CLEAN
+"Tui mới chơi game này, khó vl!",OFFENSIVE,OFFENSIVE
+"Máy tui nóng như lò, fuck cái cooling này!",OFFENSIVE,OFFENSIVE
+"Game này event hot, join đi mọi người!",CLEAN,CLEAN
+"Máy tui restart random, bực vl!",OFFENSIVE,OFFENSIVE
+Ai biết cách mod skin game không?,CLEAN,CLEAN
+"Game này fix glitch, mượt hơn rồi!",CLEAN,CLEAN
+"Cái bàn phím này gõ cứng vl, bực mình!",OFFENSIVE,OFFENSIVE
+Ai biết cách config server không?,CLEAN,CLEAN
+"Tui cần app paint free, suggest đi!",CLEAN,CLEAN
+"Cần app học code, recommend đi!",CLEAN,CLEAN
+"Game này fix bug, chơi mượt hơn!",CLEAN,CLEAN
+"Tui order đồ, tracking không chạy!",CLEAN,CLEAN
+"Cái tai nghe này đứt dây nhanh vl, đểu thật!",OFFENSIVE,OFFENSIVE
+"Film này hype quá, worth xem không mọi người?",CLEAN,CLEAN
+Ai biết cách tweak setting không?,CLEAN,CLEAN
+"Cần app học code free, recommend!",CLEAN,CLEAN
+"Game này event mới, join đi mọi người!",CLEAN,CLEAN
+Ai có link download phim HD không?,CLEAN,CLEAN
+"Ai biết chỗ repair phone cheap không, chỉ tui!",CLEAN,CLEAN
+"Máy tui lag khi stream, chán vl!",OFFENSIVE,OFFENSIVE
+"Shop này deal ngon, săn đi mọi người!",CLEAN,CLEAN
+"Máy tui crash khi stream, bực vl!",OFFENSIVE,OFFENSIVE
+"Cần app học code free, recommend!",CLEAN,CLEAN
+"Server lag hoài, fuck cái hệ thống!",OFFENSIVE,OFFENSIVE
+"Tui cần app note free, gợi ý đi!",CLEAN,CLEAN
+"Monitor này sáng tối lung tung, chán vl!",OFFENSIVE,OFFENSIVE
+"Game này event mới, join đi mọi người!",CLEAN,CLEAN
+"Máy tui freeze khi render, bực vl!",OFFENSIVE,OFFENSIVE
+"Tui cần app sketch free, suggest đi!",CLEAN,CLEAN
+"Film này CGI đỉnh, xem thích lắm!",CLEAN,CLEAN
+"Game này plot twist hay, chơi đi!",CLEAN,CLEAN
+"Cái tai nghe này bass yếu xìu, dở vl!",OFFENSIVE,OFFENSIVE
+Ai có link watch phim 4K không?,CLEAN,CLEAN
+"Tui cần app draw free, suggest đi!",CLEAN,CLEAN
+"Game này map mới, đẹp vl luôn!",CLEAN,CLEAN
+"Film này CGI đẹp, xem thích lắm!",CLEAN,CLEAN
+"Shop này discount xịn, săn thử đi!",CLEAN,CLEAN
+"Tui vừa order loa, bass mạnh lắm!",CLEAN,CLEAN
+"Game này event hot, join đi mọi người!",CLEAN,CLEAN
+"Game này patch mới, smooth hơn rồi!",CLEAN,CLEAN
+"Game này storyline hay, recommend nha!",CLEAN,CLEAN
+"Tui vừa test app, bug đầy, dở vl!",OFFENSIVE,OFFENSIVE
+"Cần plugin free cho WP, ai biết?",CLEAN,CLEAN
+"Máy tui blue screen, chết tiệt!",OFFENSIVE,OFFENSIVE
+"Cần software crack, ai có link không?",CLEAN,CLEAN
+"Tui mới test speed net, ping cao kinh khủng!",OFFENSIVE,OFFENSIVE
+Ai có tool edit audio free không?,CLEAN,CLEAN
+"Game này storyline đỉnh, recommend nha!",CLEAN,CLEAN
+"Cái chuột này click dở ẹc, chán ghê!",OFFENSIVE,OFFENSIVE
+"Máy tui lag khi stream, chán vl!",OFFENSIVE,OFFENSIVE
+Ai có link stream bóng đá không?,CLEAN,CLEAN
+"Tui order đồ, tracking không chạy!",CLEAN,CLEAN
+"Cái mic này âm thanh tệ vl, phí tiền!",OFFENSIVE,OFFENSIVE
+"Shop này deal xịn, săn đi mọi người!",CLEAN,CLEAN
+Ai biết cách tweak setting không?,CLEAN,CLEAN
+"Server disconnect liên tục, shit thật!",OFFENSIVE,OFFENSIVE
+"Máy tui overheat khi chơi, nóng vl!",OFFENSIVE,OFFENSIVE
+"Cần app học lập trình, suggest đi!",CLEAN,CLEAN
+Ai biết cách config server không?,CLEAN,CLEAN
+"Cần app học lập trình free, gợi ý!",CLEAN,CLEAN
+"Máy tui chơi game drop FPS, chán vl!",OFFENSIVE,OFFENSIVE
+"Cái bàn phím này key hỏng nhanh vl, chán!",OFFENSIVE,OFFENSIVE
+"Film này CGI đỉnh, xem thích lắm!",CLEAN,CLEAN
+"Bàn phím này gõ đau tay vl, bực mình!",OFFENSIVE,OFFENSIVE
+Ai có link watch phim 4K không?,CLEAN,CLEAN
+"Tui vừa buy RAM, máy nhanh hơn!",CLEAN,CLEAN
+"Máy nóng như lửa, cooling đểu vl!",OFFENSIVE,OFFENSIVE
+Ai có link torrent game mới không?,CLEAN,CLEAN
+"Film này action hay, xem đi nha!",CLEAN,CLEAN
+"Cái case này giữ nhiệt vl, ngu thật!",OFFENSIVE,OFFENSIVE
+"Film này action hay, xem đi nha!",CLEAN,CLEAN
+"Film này plot twist hay, xem đi!",CLEAN,CLEAN
+"Cái tai nghe này fit ngon, sound xịn!",CLEAN,CLEAN
+"Shop này sale đồ xịn, check thử đi!",CLEAN,CLEAN
+"Mouse này click ngon, price cũng ổn!",CLEAN,CLEAN
+"Máy nóng bỏng tay, dở hơi thật!",OFFENSIVE,OFFENSIVE
+"Tui test webcam, focus chậm vl!",OFFENSIVE,OFFENSIVE
+Ai có tool record audio free không?,CLEAN,CLEAN
+Ai có tool record audio free không?,CLEAN,CLEAN
+"Film này comedy đỉnh, xem đi nha!",CLEAN,CLEAN
+"Mạng hôm nay chậm như rùa, bực mình vl!",OFFENSIVE,OFFENSIVE
+Ai có link download phim HD không?,CLEAN,CLEAN
+"Game này matchmaking lâu vl, chán lắm!",OFFENSIVE,OFFENSIVE
+"Tui cần app paint free, gợi ý đi!",CLEAN,CLEAN
+"Cái bàn phím này gõ dở vl, bực mình!",OFFENSIVE,OFFENSIVE
+"Game này event mới, join đi mọi người!",CLEAN,CLEAN
+"Game này map load lâu vl, bực mình!",OFFENSIVE,OFFENSIVE
+"Tui vừa post clip, like giùm tui nha!",CLEAN,CLEAN
+"Tui vừa post clip, like giùm tui nha!",CLEAN,CLEAN
+"Cái loa này sound như rác, bực vl!",OFFENSIVE,OFFENSIVE
+Ai có link torrent phim mới không?,CLEAN,CLEAN
+"Máy tui freeze khi chơi, bực vl!",OFFENSIVE,OFFENSIVE
+"Shop này sale đồ xịn, check đi!",CLEAN,CLEAN
+"Game này co-op fun, rủ bạn chơi!",CLEAN,CLEAN
+Ai biết cách unlock game không?,CLEAN,CLEAN
+"Game này co-op fun, rủ bạn chơi!",CLEAN,CLEAN
+"Máy tui crash random, điên vl!",OFFENSIVE,OFFENSIVE
+"App này giao diện xấu vl, dở hơi!",OFFENSIVE,OFFENSIVE
+"Tui vừa test app mới, UI xài mượt thật!",CLEAN,CLEAN
+Cái headphone này noise cancel ngon!,CLEAN,CLEAN
+"Tui vừa buy RAM, máy nhanh hơn!",CLEAN,CLEAN
+"Ai biết cách reset router không, chỉ tui!",CLEAN,CLEAN
+"Cái loa này bass như shit, nghe bực!",OFFENSIVE,OFFENSIVE
+"Tui vừa install game, load lâu vl!",OFFENSIVE,OFFENSIVE
+"Tui cần tool design logo, free thì càng tốt!",CLEAN,CLEAN
+Ai có link torrent phim mới không?,CLEAN,CLEAN
+"Cần app học lập trình free, gợi ý!",CLEAN,CLEAN
+"Tui order đồ, shipping fee đắt vl!",OFFENSIVE,OFFENSIVE
+"Máy tui render chậm vl, muốn đập luôn!",OFFENSIVE,OFFENSIVE
+"Net rớt giữa trận, fuck cái mạng này!",OFFENSIVE,OFFENSIVE
+"Tui vừa install game, load lâu vl!",OFFENSIVE,OFFENSIVE
+"Cái monitor này flicker hoài, chán vl!",OFFENSIVE,OFFENSIVE
+Ai biết cách tweak game này không?,CLEAN,CLEAN
+"Film này comedy đỉnh, xem đi nha!",CLEAN,CLEAN
+Ai có link stream phim mới không?,CLEAN,CLEAN
+"Cần code PHP, ai share tui với!",CLEAN,CLEAN
+"Film này twist hay, xem đi không tiếc!",CLEAN,CLEAN
+"Máy render lâu vl, chán muốn chết!",OFFENSIVE,OFFENSIVE
+"Film này soundtrack hay, nghe phê!",CLEAN,CLEAN
+"Game này mode mới, thử chưa ai?",CLEAN,CLEAN
+"Ai biết cách reset modem không, chỉ tui!",CLEAN,CLEAN
+"Game này storyline hay, recommend nha!",CLEAN,CLEAN
+"Ai biết cách boost RAM không, chỉ tui!",CLEAN,CLEAN
+"Tui vừa build PC budget, performance đỉnh lắm!",CLEAN,CLEAN
+"Ai có link film HD không, share tui với!",CLEAN,CLEAN
+"Cần driver mới, tìm đâu ra bây giờ?",CLEAN,CLEAN
+Ai biết cách tweak setting không?,CLEAN,CLEAN
+"Cần script CSS, ai share tui với!",CLEAN,CLEAN
+"Net hôm nay ping cao vl, chơi sao nổi?",OFFENSIVE,OFFENSIVE
+"Tui vừa order chuột, click mượt lắm!",CLEAN,CLEAN
+"Shop đó ship đúng hẹn, ok lắm!",CLEAN,CLEAN
+"Shop đó ship đúng hẹn, ok lắm!",CLEAN,CLEAN
+"Game này update mới, bug ít hơn rồi!",CLEAN,CLEAN
+"Tui mới chơi game này, khó vl!",OFFENSIVE,OFFENSIVE
+"Cái chuột này click tệ vl, chán ghê!",OFFENSIVE,OFFENSIVE
+"Net hôm nay lag kinh khủng, fuck luôn!",OFFENSIVE,OFFENSIVE
+"Ai biết cách reset modem không, chỉ tui!",CLEAN,CLEAN
+"Cái headphone này sound đỉnh, nhưng dây ngắn!",CLEAN,CLEAN
+"Cái app này crash hoài, xài chán đời!",OFFENSIVE,OFFENSIVE
+"Game này patch mới, smooth hơn!",CLEAN,CLEAN
+Ai biết cách unlock game không?,CLEAN,CLEAN
+"Game này event hot, join đi mọi người!",CLEAN,CLEAN
+"Cái headphone này sound tệ vl, phí tiền!",OFFENSIVE,OFFENSIVE
+"Code này run ngon, share source đi bạn!",CLEAN,CLEAN
+Ai biết cách overclock GPU không?,CLEAN,CLEAN
+"Cái laptop này chậm vl, muốn đập luôn!",OFFENSIVE,OFFENSIVE
+"Cần tool zip file free, ai có không?",CLEAN,CLEAN
+"Cần tool extract free, ai có không?",CLEAN,CLEAN
+"Cái chuột này scroll lag, shit thật!",OFFENSIVE,OFFENSIVE
+"Máy tui drop FPS khi stream, chán vl!",OFFENSIVE,OFFENSIVE
+"Film này plot twist hay, xem đi!",CLEAN,CLEAN
+"Ai biết cách boost CPU không, chỉ tui!",CLEAN,CLEAN
+"Máy tui freeze khi render, bực vl!",OFFENSIVE,OFFENSIVE
+"Cần plugin SEO free, ai share!",CLEAN,CLEAN
+"Game này event mới, join không mọi người?",CLEAN,CLEAN
+Ai có tool record screen free không?,CLEAN,CLEAN
+"Game này storyline đỉnh, recommend nha!",CLEAN,CLEAN
+"Film này ending đỉnh, xem đi nha!",CLEAN,CLEAN
+"Tui cần app to-do free, gợi ý nha!",CLEAN,CLEAN
+"Mạng hôm nay rớt hoài, fuck cái wifi này!",OFFENSIVE,OFFENSIVE
+"Ai chơi map này chưa, hard vl luôn!",OFFENSIVE,OFFENSIVE
+"Update xong máy lag kinh dị, ngu vl!",OFFENSIVE,OFFENSIVE
+"Game này PvE đỉnh, ai chơi chưa?",CLEAN,CLEAN
+Ai có link stream phim mới không?,CLEAN,CLEAN
+"Tui order đồ, shipping fee đắt vl!",OFFENSIVE,OFFENSIVE
+"Cần tool extract free, ai có không?",CLEAN,CLEAN
+"Game này load map lâu vl, chán lắm!",OFFENSIVE,OFFENSIVE
+"Cái earbuds này design đẹp, sound đỉnh!",CLEAN,CLEAN
+Ai biết cách overclock GPU không?,CLEAN,CLEAN
+"Shop này sale đồ xịn, check đi!",CLEAN,CLEAN
+"Ai biết cách tweak RAM không, chỉ tui!",CLEAN,CLEAN
+"Tui cần tool edit video, recommend cái nào đi!",CLEAN,CLEAN
+"Tui order đồ, shipping fee đắt vl!",OFFENSIVE,OFFENSIVE
+"Tui vừa buy SSD, tốc độ nhanh vl!",CLEAN,CLEAN
+"Cần plugin free cho website, ai biết không?",CLEAN,CLEAN
+"Cần app học code free, recommend!",CLEAN,CLEAN
+"Tui cần app note free, suggest cái nào đi!",CLEAN,CLEAN
+"Game này glitch nhiều, chơi phát bực!",OFFENSIVE,OFFENSIVE
+"Cái bàn phím này gõ lag, shit thật!",OFFENSIVE,OFFENSIVE
+"Game này plot hay, chơi đi nha!",CLEAN,CLEAN
+"Cần plugin SEO free, ai share!",CLEAN,CLEAN
+"Cái webcam này focus chậm vl, chán ghê!",OFFENSIVE,OFFENSIVE
+"Tui vừa buy SSD, tốc độ nhanh vl!",CLEAN,CLEAN
+Mới được mấy câu đã chụp mũ red bull,HATE,HATE
+"thực ra anti về mặt văn hoá là chính chứ ko phải địa lý, mình có chơi với nhiều bạn người bắc trẻ trẻ đa số cũng dễ thương đàng hoàng, bắc kỳ hãm nhất chắc là lứa u30 đến u50, thế hệ mà vừa đổi mới, lớn lên với sự lươn lẹo chụp giựt, sinh ra cái tính thích lấn lướt người khác bằng chiêu trò chứ ko phải năng lực, thích sĩ diện hãm bla bla",HATE,HATE
+"Fax: eo gi bi ti cần người bình thường, người ko tâm thần để duy trì nòi giống, nếu kill all chừa lại mỗi eo gi bi ti thì rồi một ngày cno một là quay về làm người bình thường hoặc cno tự chết trên giấc mơ hão của chính mình",HATE,HATE
+Mồm chửi LGBT tay thì xài sản phẩm của khoa học máy tính do Alan Turing là cha đẻ. Đúng đám lesor.,HATE,HATE
+"Cộng sản chỉ tồn tại thời nguyên thuỷ. Khi ai cũng như ai, tay làm hàm nhai, tay đéo làm thì ăn cứt, ăn đầu cu. Khi con người phát triển xã hội, tích luỹ tài sản, thì cái thế giới cộng sản nó là chuyện ru ngủ đám em nhỏ thơ. Mà nói cho đúng, Marx làm gì có sự nguyên bản, cái chủ nghĩa cộng sản của hắn, một thứ Utopia, thứ thế giới đại đồng làm gì tồn tại, cóp nhặt từ Utopia của một ông thầy tu.
+
+Nói làm vì đam mê là sai hoàn toàn, xã hội càng phát triển thì càng phân hoá. Marx, một tay nghiện thuốc phiện, lại cho rằng co người quay lại kinh tế trao đổi? Sau bao nhiêu định chế phát minh ra để đẩy mạnh kinh tế tiêu thụ? Marx chỉ nghĩ tới kinh tế tự túc, Autarky, như một thằng mọi Bắc Triều Tiên ốm nhom và bụng phình vì đầy sán, chỉ làm và ca ngợi lãnh tụ béo như một con heo, hay một thằng Mobik chết rét trong chiến hào, miệng hô: Chủ nghĩa xã hội muôn năm, trong khi bụng nó và đàn con đói meo, còn đám Nomenklature thì tha hồ ăn trên xương máu những con người làm nông vì đam mê ấy. Nói cách khác, nó ru ngủ, nó là liều thuốc phiện trộn methamphetamine cực nặng, nó khiến cho con người ta tự mị mình là mình đam mê với một cái bụng rỗng, là hoang tưởng người nghệ sĩ vị nghệ thuật.",HATE,HATE
+"Là một thằng Bắc Kỳ sinh ra ở trong Nam
+
+Ý kiến của t, góp ý đéo nghe thì đó gọi là gia trưởng, thế thôi, văn vẻ làm đéo  gì, 90% trai bắc gia trưởng mẹ r, t cũng thế, qua mấy con bồ rồi mới đỡ đc chút. fuck
+
+Phân tích một chút về gia trưởng: 2 chiều, đa phần đàn ông có tí gia trưởng thì dễ gây dựng thứ lớn lao hơn là đàn ông ít chính kiến. Nhưng gia trưởng quá thì khó mà yêu.",HATE,HATE
+Sao có mấy thằng lồn từ đâu vô duyên downvote trong khi tao chỉ nói với mày cho vui thôi. Đéo biết có phải lũ bắc kỳ ngứa háng không nữa.,HATE,HATE
+"Uhm thì dị đó. Thằng OP NÀY NÓ QUI CHỤP! NÊN GÂY xung đột. Nó thích gán ghép độc tài!! Như kiểu. Đàn bà đi bơm dú là bọn nó bảo đi làm đĩ... đàn bà ăn mặc hở hang sexy thì bọn nó bảo làm gái. Làm đĩ!!!..
+
+Trong khi bọn nó nhìn thấy đàn bà để lộ dú hay dú to là thèm chảy giãy như chó!!!!!.. ..
+
+Bọn này nó cứ thích gán ghép HÀNH ĐỘNG chung vô trend TÍNH DỤC rồi chửi.. trong KHI xu hướng TÍNH DỤC chả liên quan con mẹ gì HÀNH ĐỘNG HẾT!.",HATE,HATE
+Văn phong như cặc mấy thag thag nào t cũng trog sub này. Bỏ cái xàm ngôn tự nhục ấy đi. Sống ở đời đéo ai tự muốn nhục cả nhé quy chụp kiểu xl t ghét hiểu chưa con bò kia ,HATE,HATE
+M dân gay à,HATE,HATE
+"Ồ hóa ra nam kỳ = tạp chủng. Không sao No problem, tạp chủng có tự hào của tạp chủng",HATE,HATE
+Nationalism là tên gọi chung của những thành phần yêu nước thái quá.,HATE,HATE
+"Tao bảo trong mấy cái comment khác rồi, t rất thích xem các loại bò húc nhau. T cơ bản cũng không khác bò vàng đỏ là mấy, nên là cũng thích đi xem cái ngu của bọn này để thẩm du tinh thần. Vì thế nên t hiếm khi comment/thi thoảng tearsing đám này thôi. Được có hôm ""critical thinking"" 1 cái như đám kia kháu với nhau mà đông dở hơi vào táp quá nên ngồi đây reply giết thời gian chớ",HATE,HATE
+"Opinion của mày lòng vòng như cái lol thế nhỉ, cùng phe là cùng phe thế đéo nào ? Tao ghét bọn LGBT, còn mày bảo tao đừng ghét thế thì cùng phe chỗ nào vậy thằng lồn, mà mày não úng à, lập luận con cặc gì lắm vậy, điều tao muốn nói ban đầu đã rõ là tao không thích LGBT chỉ đơn giản vậy thôi, đó là quan điểm của bản thân tao mà mày dài dòng con mẹ gì lắm vậy",HATE,HATE
+Mày là một thằng chống Cộng cho sướng miệng! Chứ cống hiến mẹ gì! Son of a bitch,HATE,HATE
+"Miền Nam vẫn sẽ còn tinh hoa nếu cháu con chịu nói và học hỏi tiếng Nam thay vì lên mạng đu trend mấy ô ng bắn mà nói tiếng bắc theo. Tinh hoa miền nam bị ăn mòn nhiều hơn bắc vì các loại sách, tạp chí,... lưu hành hiện nay đều viết theo chuẩn ngôn ngữ miền bắc. Nên tinh hoa miền nam đang bị ăn mòn gần hết! Phải ns thiệt chứ đi đâu cx gặp ng bắc, lâu lâu ns lộn qua ngôn ngữ miền bắc k chừng:))",HATE,HATE
+Vậy là gái việt sau mấy năm giải phóng lại đi làm bitch cho tư bản hảv,HATE,HATE
+"Kệ nó đi thằng loèn này nãy giờ dùng chung một lập luận cho chục cái comment rồi nhìn hề với thiếu não vl. Chữ ghi to lắm vô rốt cuộc nội dung là nó là thẳng nhưng nó đéo thích anti lgbt thế thôi mà nó ghi như hấp hối ấy, đếch chừa phần chữ cho ai luôn.",HATE,HATE
+"Look, mấy con mọi khmer namkey",HATE,HATE
+Đã tới Cnxh rồi mà mày không biết hả? Cả nước go underground nhá!,HATE,HATE
+Thấy mày có chửi Cộng Sản bao giờ đâu? Xạo lồn à. Toàn thấy đòi đụ với lick đít gái.,HATE,HATE
+Chúng mày thì cứ ai trái ý là auto bò đỏ. Ngu vãi lồn. Kiểu này tụi bò đỏ yên tâm vãi lồn vì chúng mày lesor từ ngoài đời lên trên mạng.,HATE,HATE
+"Vãi lồn :))))) nhà nước cho lương >11 củ mới phải đóng tax, đấy là chưa trừ tiền miễn tax theo người cần chăm sóc, thuế VN là nhẹ vãi lồn luôn, chưa kể cty tư lách tax dễ gần nhất mẹ thế giới. M ko đóng tax chúng nó lại sợ m quá",HATE,HATE
+Bò đỏ có thể là ngu thật nhưng bọn trong này như kiểu vô cmn vọng luôn r ấy =))) bọn nó cứ lảm nhảm về critical thinking trong khi ngay thằng ở trên còn hô hào đi giết con nhà ngta nếu ko sẽ bị biến thành bò đỏ trình cs tẩy não cũng đ bằng 1 góc bọn này tự huyễn với cả nhau =))),HATE,HATE
+"Nam Kỳ có người stupid nhưng người ngu Nam Kỳ không cầm quyền như người Bắc Kỳ,",HATE,HATE
+"Mày bầu thằng đứng đầu ngành giáo dục à?? Mày vote nó được không?? Giáo dục nát thì do thằng đứng đầu.. Vậy thằng đó tự dưng chui lên à?? Nói chuyện như một đứa trẻ không biết gì đời vậy?? Tàu khựa nó phát triển, cống hiến, phát minh cho nền KHKT như nào rồi mày??? Copy Left à?? Đấy là mày nghĩ phát triển về KHKT à??.. Phục vụ cho mục đích gì??.. Bọn như mày và thằng trên kia xứng đáng bị chửi.. Vì chúng mày lại lý luận nguỵ biện để ru ngủ người khác... Ăn chửi là đúng rồi còn kêu ca gì..",HATE,HATE
+"Nói ""Tankie"" là tự khắc chúng nó hiểu",HATE,HATE
+"bố thằng ba ke ngu lồn, ở trên thì kêu ở sg 30 năm chưa nghe bake bị đập, tao đưa ngay cái tin bake bị xiên vì xạo lồn, ở dưới thì lấp liếm bởi tao nói bọn bake chúng mày bị ngu lồn mà, còn tao chửi mấy thằng bake vô ý thức chúng mày ở ngoài cả đống, còn mấy ng bắc sống bt tao kiếm chuyện làm gì còn ngoài đời tao làm remote cho bọn tư bản, cho vay góp ở tân phú-q11 với ghi lô , nên mày khỏi dạy đời tao rút tay ra khỏi quần nhé",HATE,HATE
+"Tô Lâm đúng ngu, giáo dục nước  nào cũng ăn chửi như nhau mà lại cho con mình đi  nửa vòng quả đất sang Anh học",HATE,HATE
+"Tuyến đầu con cặc, vaccine ông ngoại là ai chích hả bắc kì chó, vaccine Pfizer bên nào dc nhiều hơn v bắc kì chó",HATE,HATE
+"vcl tôi học campus hn và bọn hn học như đ còn ngày mai nếu nó đ ăn đc con HD+ ông à, bây giờ dính bell curve nữa thì chết mẹ mấy thg lười học như tôi luôn",HATE,HATE
+"nhờ có thk "" Lộn đồ"" nên t ms lên đây , nhma đéo thèm tham gia r/place lm con cặc gì , nhìn khác mẹ j tranh tuyên truyền cộng sẻn",HATE,HATE
+"Đám woke này sang mấy nước cộng sản, hồi giáo , thân Nga là bị quất ngay. Ở đó người ta bận survive đéo rảnh háng  đâu care ba cái da đen, bê đê , nữ quyền các thứ",HATE,HATE
+"Pussy đã thiếu, nhiều lgtv tạo ra nhiều incel ko giám tăng dân số",HATE,HATE
+"Mĩ đẽo núi làm tượng hay lấy tên tổng thống làm tên 1 bang lớn thì đéo thấy các anh lôi ra trình bày với soi mói bóc phốt, cứ cái đéo gì Việt Nam làm cũng phải nhét bằng đc cái chữ Cộng Sản vào để chửi. Thế bây giờ dùng chính cái văn rồ Tây rồ Tư bản của chủ tus ra chửi mấy thằng tây lông in mặt tổng thống lên đô hay đẽo núi làm tượng chắc cũng để brainwash nhân dân chúng nó đấy.",HATE,HATE
+"Mấy cái woke này chẳng qua là một loại hình thức định hướng xã hội của bọn tầng lớp thống trị. Ai trả tiền cho bọn ăn không ngồi rồi này làm phá nát xã hội? Bọn tài phiệt ở Mĩ, bọn tài phiệt Tàu liên kết với bọn tài phiệt Mĩ. chúng nó chẳng qua là một trong những công cụ tuyên truyền để chỉnh xã hội đi theo hướng có lợi cho bọn này nhất.
+
+Các nhà nước Cộng Sản như Việt Nam thì đéo cần loại woke này, chúng nó có một tầng lớp tương tự và trung thành hơn được xây dựng mấy chục năm chính là bò đỏ. Ngoài ra bọn woke này tư tưởng của chúng nó chẳng qua là một loại tôn giáo khác trung thành với bọn tài phiệt trả tiền cho chúng nó ở Mĩ trong khi ở việt nam đảng CS là tôn giáo tuyệt đối nên chúng nó bị ghét là phải.",HATE,HATE
+"Hihihi bạn nói như shit, con vẹt tuyên giáo chỉ đến thế",HATE,HATE
+Cái sub voz đấy toàn mấy thằng thảo mai tự suck với nhau. Mấy thg l toàn cap màn hình sang đấy sục với nhau ạ bựa vãi dái,HATE,HATE
+"tiếng anh mày thì giỏi quá, ""real ideals"" là cái đéo gì? btw bò đỏ là extreme nationalists còn cái kia là hardcore hoặc hard-core chứ đéo phải hard core",HATE,HATE
+"Nó sợ bị như thằng Pháp hồi 2015 ấy, lố nhố với mấy anh ăn snackbar thờ Allah là lên bàn thờ liền :))))
+
+Mẹ vụ cái tòa báo ở Pháp ăn bom vì vẽ ảnh châm biếm người hồi giáo vãi l thật, bi thì bi thật nhưng hài vcl :)))",HATE,HATE
+À thế neutral à lồn wjbu. Vậy kiếm mấy con bò đỏ khác chọc,HATE,HATE
+"Ý kiến cá nhân cũng như bộ phận sinh dục vậy, ai cũng có 1 cái nhưng tốt nhất là đừng show ra public cho mọi người cùng xem.
+
+Mở đầu bài bằng 1 câu ""Mình k kỳ thị gì tôn giáo"", nhưng những câu tiếp theo thì công kích liên tục vào tôn giáo =)) typical snowflake
+
+Lại còn đem cả hollywood vào để làm nguồn thì tôi chịu rồi đấy. Tất cả những gì bạn thấy đều là thông qua con mắt của bạn, thế số liệu thống kê đâu?",HATE,HATE
+🤨 nói chứ tui rứt mong có cái post về Nam Kỳ Chó luôn cho nó công bình. Vì tui thấy dân VN rất nhiều thằng chó chết mẹ.,HATE,HATE
+"Mặc dù t chỉ biết tới sub này vài tuần trước nhưng dm cứ vài ngày là thấy 1 bài ""VN sắp tàn""
+
+Dm tụi bây đéo còn cái cc gì để nói à ?? Chắc cái ""VN sắp tàn"" dc post từ ngày cái sub này dc mở pk ??
+
+Dm đừng có để như mấy thằng ở Mỹ miệng bô bô ""CS sắp tàn"" nhưng đem tiền về VN chơi gái, dm đến lũ trẻ ở Mỹ còn khinh nữa",HATE,HATE
+Từ hồi t chơi game mới biết người miền nam ghét người bắc vậy. miền nam là người kinh thì cũng là gốc gác ở miền bắc cả. đéo biết nhớ về cội nguồn thì thôi cứ đi kì thị gốc gác của mk,HATE,HATE
+Mày nói hay quá thằng Cam Pốt đó câm mẹ rồi. Cái sub này riết hồi toàn tụi 3Que cay dái :)))),HATE,HATE
+"Nhà nước wc, nhu nhược , ăn hiếp dân là giỏi bad bad",HATE,HATE
+"Uh địt mẹ, tao cũng đéo cần nói nhiều nữa. Rõ ràng là thằng bê đê cố tình lên social media giả nai dụ trai đụ bò :)))))) Mày đúng là CỨT!",HATE,HATE
+"Tao predict chuẩn vl, vào profile đúng con bò đỏ wibu",HATE,HATE
+"Không tự xem lại mình ngu còn yếu kém thì thôi lại còn đi blame, rước Mỹ vào phụ thuộc kinh tế vào nó đến lúc nó bỏ cho mất nước thì gào khóc chửi Diệm",HATE,HATE
+"Game này chơi mượt lắm, thích ghê!",CLEAN,CLEAN
+"Cái áo này đẹp quá, mua liền!",CLEAN,CLEAN
+"Hôm nay trời mát, đi chơi sướng vl!",CLEAN,CLEAN
+"Film mới hay quá, recommend nha!",CLEAN,CLEAN
+Đồ ăn ở quán này ngon tuyệt vời!,CLEAN,CLEAN
+"Máy mới xài ổn, pin trâu lắm!",CLEAN,CLEAN
+"Coi live stream vui vl, chill ghê!",CLEAN,CLEAN
+Nhạc này nghe relax lắm luôn!,CLEAN,CLEAN
+"Cái app này xài tiện, thích thật!",CLEAN,CLEAN
+"Đường hôm nay vắng, đi sướng lắm!",CLEAN,CLEAN
+"Team này chơi hay, pro vl!",CLEAN,OFFENSIVE
+"Món này dễ nấu, ngon nữa chứ!",CLEAN,CLEAN
+"Coi clip này cười xỉu luôn, hài vl!",CLEAN,OFFENSIVE
+Điện thoại mới chụp ảnh đẹp kinh!,CLEAN,CLEAN
+Game này free mà chất lượng đỉnh!,CLEAN,CLEAN
+"Hôm nay mood tốt, chill cả ngày!",CLEAN,CLEAN
+"Shop này ship nhanh, ưng lắm!",CLEAN,CLEAN
+"Cái bàn này xài bền, thích vl!",CLEAN,OFFENSIVE
+"Trời hôm nay đẹp, đi chụp ảnh vui!",CLEAN,CLEAN
+"Máy lạnh mới mát vl, sướng thật!",CLEAN,CLEAN
+"Coi trận này hype vl, đội đỉnh!",CLEAN,OFFENSIVE
+"Đồ chơi này xài vui, đáng tiền!",CLEAN,CLEAN
+Cái tai nghe này âm thanh đỉnh cao!,CLEAN,OFFENSIVE
+"Game mới ra event hay, chơi mê!",CLEAN,CLEAN
+"Quán cafe này vibe chill, thích!",CLEAN,CLEAN
+"Coi video này học được nhiều, hay!",CLEAN,CLEAN
+"Đường này chạy xe sướng, thoáng!",CLEAN,CLEAN
+"Máy ảnh mới zoom đỉnh, thích lắm!",CLEAN,CLEAN
+"Cái ví này đẹp, xài tiện vl!",CLEAN,CLEAN
+"Team bạn chơi fair, vui ghê!",CLEAN,CLEAN
+"Hôm nay ngủ ngon, mood tốt vl!",CLEAN,CLEAN
+"Coi phim này cảm xúc lắm, hay!",CLEAN,CLEAN
+"Shop này sale nhiều, thích ghê!",CLEAN,CLEAN
+"Cái ghế này ngồi êm, chill lắm!",CLEAN,CLEAN
+"Game gì mà lag vl, chơi chán đời!",OFFENSIVE,OFFENSIVE
+"Cái bàn phím này hư liên tục, bực ghê!",OFFENSIVE,OFFENSIVE
+"Máy tính chậm như rùa, xài ức chế!",OFFENSIVE,OFFENSIVE
+"Đường đông vl, kẹt xe mệt mỏi!",OFFENSIVE,CLEAN
+"Cái app này lỗi hoài, dở ẹc!",OFFENSIVE,OFFENSIVE
+"Mạng yếu vl, load mãi không xong!",OFFENSIVE,OFFENSIVE
+"Đồ ăn dở tệ, phí tiền vl!",OFFENSIVE,OFFENSIVE
+"Coi film này chán chết, skip luôn!",OFFENSIVE,OFFENSIVE
+"Cái loa này rè vl, nghe bực mình!",OFFENSIVE,OFFENSIVE
+"Shipper giao chậm, thái độ kém!",OFFENSIVE,CLEAN
+"Máy này nóng vl, xài phát mệt!",OFFENSIVE,OFFENSIVE
+"Game thủ toxic vl, chơi chán luôn!",OFFENSIVE,OFFENSIVE
+"Cái ghế này ngồi đau lưng, chán!",OFFENSIVE,OFFENSIVE
+"Điện thoại này pin yếu xìu, bực!",OFFENSIVE,OFFENSIVE
+Mua đồ online mà chất lượng dởm!,OFFENSIVE,OFFENSIVE
+"Server lag vl, disconnect hoài!",OFFENSIVE,OFFENSIVE
+"Coi cái này buồn ngủ vl, chán!",OFFENSIVE,OFFENSIVE
+"Cái bàn này xước hết, bực vl!",OFFENSIVE,OFFENSIVE
+"Máy lạnh yếu vl, nóng muốn chết!",OFFENSIVE,OFFENSIVE
+"Game này update dở, chán ghê!",OFFENSIVE,CLEAN
+"Đồ ăn nguội tanh, phí tiền!",OFFENSIVE,OFFENSIVE
+"Cái tai nghe này đứt dây, bực!",OFFENSIVE,OFFENSIVE
+"Đường này ổ gà nhiều, chạy mệt!",OFFENSIVE,CLEAN
+"Coi live này chán vl, tắt luôn!",OFFENSIVE,OFFENSIVE
+"Máy ảnh này chụp mờ, dở tệ!",OFFENSIVE,OFFENSIVE
+"Cái ví này rách nhanh, chán!",OFFENSIVE,OFFENSIVE
+"Team kia chơi gà vl, bực mình!",OFFENSIVE,OFFENSIVE
+"Hôm nay mạng lag, ức chế vl!",OFFENSIVE,CLEAN
+"Coi clip này dài dòng, chán!",OFFENSIVE,OFFENSIVE
+"Shop này giao sai đồ, bực!",OFFENSIVE,OFFENSIVE
+"Cái giày này chật, xài khó chịu!",OFFENSIVE,OFFENSIVE
+"Game này bug hoài, chán đời!",OFFENSIVE,OFFENSIVE
+"Cái đèn này nháy liên tục, mệt!",OFFENSIVE,CLEAN
+"Shop này scam vl, đừng ai mua!",HATE,OFFENSIVE
+"Thằng dev ngu vl, game toàn bug!",HATE,OFFENSIVE
+"Cái quán này lừa đảo, đồ dởm!",HATE,OFFENSIVE
+"Đám shipper ngu như bò, giao trễ!",HATE,OFFENSIVE
+"Game này pay-to-win, chơi khốn nạn!",HATE,OFFENSIVE
+"Admin lười vl, server như rác!",HATE,OFFENSIVE
+"Đồ fake mà bán giá cắt cổ, đểu!",HATE,OFFENSIVE
+Coi thằng này diễn mà ghét vl!,HATE,OFFENSIVE
+Team này chơi dở mà toxic kinh!,HATE,OFFENSIVE
+"Cái máy này đểu vl, hư liền!",HATE,OFFENSIVE
+"Shop lừa đảo trắng trợn, tránh xa!",HATE,CLEAN
+"Thằng đó nói chuyện ngu vl, ghét!",HATE,OFFENSIVE
+"Cái app này scam tiền, khốn nạn!",HATE,OFFENSIVE
+"Đám này bán đồ dỏm, đểu thật!",HATE,OFFENSIVE
+"Game này hút máu vl, chơi tức!",HATE,OFFENSIVE
+Coi clip này ghét bỏ mẹ luôn!,HATE,OFFENSIVE
+"Shop này thái độ lồi lõm, ghét!",HATE,OFFENSIVE
+"Thằng kia chơi bẩn, khốn thật!",HATE,OFFENSIVE
+"Cái bàn này đểu, gãy liền!",HATE,OFFENSIVE
+"Đám dev lười vl, update toàn lỗi!",HATE,OFFENSIVE
+"Quán này bẩn thỉu, kinh vl!",HATE,OFFENSIVE
+Coi thằng này stream mà tức!,HATE,OFFENSIVE
+"Game này scam event, khốn nạn!",HATE,OFFENSIVE
+"Shop này bán đồ cũ, đểu kinh!",HATE,OFFENSIVE
+"Thằng đó comment toxic, ghét vl!",HATE,OFFENSIVE
+"Cái loa này fake, mua tức!",HATE,OFFENSIVE
+Đám này lừa tiền trắng trợn!,HATE,OFFENSIVE
+"Coi clip này fake vl, ghét!",HATE,OFFENSIVE
+"Game này hack nhiều, chơi tức!",HATE,CLEAN
+"Shop kia thái độ như lol, tránh xa!",HATE,OFFENSIVE
+"Thằng kia flex dởm, ghét vl!",HATE,OFFENSIVE
+"Cái app này toàn quảng cáo, đểu!",HATE,OFFENSIVE
+"Đám này chơi bẩn, khốn nạn vl!",HATE,OFFENSIVE
