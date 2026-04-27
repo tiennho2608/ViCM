@@ -40,7 +40,7 @@ Our work proposes a **cross-lingual language model with 1D-CNN layers** and a **
 
 | Challenge | Our Solution |
 |---|---|
-| No existing code-mixed Vietnamese dataset | ✅ First dataset of its kind (~5,415 samples) |
+| No existing code-mixed Vietnamese dataset | ✅ First dataset of its kind (5,415 samples) |
 | Class imbalance in hate speech data | ✅ Custom focal loss function |
 | Poor feature extraction from short comments | ✅ 1D-CNN layers for local feature capture |
 | Cross-lingual complexity | ✅ XLM-R backbone with multilingual pretraining |
@@ -54,10 +54,10 @@ Our work proposes a **cross-lingual language model with 1D-CNN layers** and a **
 ```
 ViCM/
 ├── data/
-│   ├── train.csv        ← Training split
-│   ├── dev.csv          ← Validation split
-│   └── test.csv         ← Test split
-├── images/              ← (your preview images go here)
+│   ├── train.csv        ← Training split (3,787 samples)
+│   ├── dev.csv          ← Validation split (542 samples)
+│   └── test.csv         ← Test split (1,086 samples)
+├── images/              
 └── README.md
 ```
 
@@ -65,44 +65,36 @@ ViCM/
 
 ### 🗂️ `train.csv` — Training Split
 
-> Replace the line below with your screenshot of train.csv
-
 ![train.csv preview](images/train_preview.png)
 
-The main training data used to fit classification models. Contains the largest portion of labeled code-mixed Vietnamese social media comments.
+The main training data used to fit classification models. Contains **3,787** labeled code-mixed Vietnamese social media comments — the largest portion of the dataset.
 
 ---
 
 ### 🗂️ `dev.csv` — Validation Split
 
-> Replace the line below with your screenshot of dev.csv
-
 ![dev.csv preview](images/dev_preview.png)
 
-Used during training for hyperparameter tuning and early stopping. Helps prevent overfitting on the training data.
+Used during training for hyperparameter tuning and early stopping. Contains **542** samples to help prevent overfitting on the training data.
 
 ---
 
 ### 🗂️ `test.csv` — Test Split
 
-> Replace the line below with your screenshot of test.csv
-
 ![test.csv preview](images/test_preview.png)
 
-The held-out evaluation set. Used exclusively for final benchmarking — never seen by the model during training.
+The held-out evaluation set with **1,086** samples. Used exclusively for final benchmarking — never seen by the model during training.
 
 ---
 
 ## 📊 Dataset Statistics
 
-| Split | # Samples | Hate Speech | Non-Hate |
-|-------|-----------|-------------|----------|
-| Train | —         | —           | —        |
-| Dev   | —         | —           | —        |
-| Test  | —         | —           | —        |
-| **Total** | **~5,415** | —       | —        |
-
-> 📝 Fill in exact label distribution from your data.
+| Split | Total | Label 0 (Clean) | Label 1 (Hate) | Label 2 (Offensive) |
+|-------|-------|-----------------|----------------|----------------------|
+| Train | 3,787 | 2,216 | 1,356 | 215 |
+| Dev   | 542   | 331   | 180   | 31  |
+| Test  | 1,086 | 625   | 389   | 72  |
+| **Total** | **5,415** | **3,172** | **1,925** | **318** |
 
 ---
 
@@ -110,20 +102,19 @@ The held-out evaluation set. Used exclusively for final benchmarking — never s
 
 Each `.csv` file contains the following columns:
 
-| Column | Type     | Description |
-|--------|----------|-------------|
-| `id`   | `int`    | Unique comment identifier |
-| `text` | `string` | Raw social media comment (code-mixed Vietnamese) |
-| `label`| `int`    | `0` = Non-hate, `1` = Hate speech |
-
-> 📝 Adjust column names to match your actual schema if different.
+| Column  | Type     | Description |
+|---------|----------|-------------|
+| `id`    | `int`    | Unique comment identifier |
+| `text`  | `string` | Raw social media comment (code-mixed Vietnamese) |
+| `Label` | `int`    | `0` = Clean, `1` = Hate Speech, `2` = Offensive |
 
 **Example:**
 
-| id | text | label |
+| id | text | Label |
 |----|------|-------|
-| 1  | "mày nói vậy là sai lắm lol" | 0 |
-| 2  | "đồ ngu, get out of here"     | 1 |
+| 1162 | "Mới đây người xem không khỏi bất ngờ..." | 0 |
+| 4083 | "Hắn vừa đi vừa chửi. Bao giờ cũng thế..." | 1 |
+| 1978 | "Thằng bò đỏ bị brainwash" | 2 |
 
 ---
 
@@ -137,9 +128,9 @@ train_df = pd.read_csv("data/train.csv")
 dev_df   = pd.read_csv("data/dev.csv")
 test_df  = pd.read_csv("data/test.csv")
 
-print(f"Train: {len(train_df)} samples")
-print(f"Dev:   {len(dev_df)} samples")
-print(f"Test:  {len(test_df)} samples")
+print(f"Train: {len(train_df)} samples")  # 3787
+print(f"Dev:   {len(dev_df)} samples")    # 542
+print(f"Test:  {len(test_df)} samples")   # 1086
 
 # Preview
 print(train_df.head())
