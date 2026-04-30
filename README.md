@@ -143,16 +143,15 @@ print(train_df.head())
 If you use the **ViCM** dataset in your research, please cite our paper:
 
 ```bibtex
-@article{nguyen2026vicm,
-  title     = {An effective convolutional cross-lingual language model for Vietnamese online social media mining},
-  author    = {Nguyen, Tien Minh and Nguyen, Tue Minh and Huynh, Tin Van and Nguyen, Kiet Van},
-  journal   = {International Journal of Machine Learning and Cybernetics},
-  volume    = {17},
-  pages     = {69},
-  year      = {2026},
-  publisher = {Springer},
-  doi       = {10.1007/s13042-025-02904-6},
-  url       = {https://link.springer.com/article/10.1007/s13042-025-02904-6}
+@article{nguyen2026effective,
+  title={An effective convolutional cross-lingual language model for Vietnamese online social media mining},
+  author={Nguyen, Tien Minh and Nguyen, Tue Minh and Huynh, Tin Van and Nguyen, Kiet Van},
+  journal={International Journal of Machine Learning and Cybernetics},
+  volume={17},
+  number={2},
+  pages={69},
+  year={2026},
+  publisher={Springer}
 }
 ```
 
